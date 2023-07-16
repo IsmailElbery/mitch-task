@@ -66,6 +66,7 @@ php artisan serve
 ### Step 5: Register a user
 
 ```
+```
 
 ### Step 6: Login
 
