@@ -67,8 +67,6 @@ php artisan serve
 
 ```
 
-```
-
 ### Step 6: Login
 
 ```
